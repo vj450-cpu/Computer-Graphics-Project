@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="snow_world" />
+		<Option title="theme_park" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/snow_world" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/theme_park" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -16,7 +16,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/snow_world" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/theme_park" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -39,7 +39,7 @@
 			<Add library="C:/Windows/System32/glu32.dll" />
 			<Add directory="D:/Downloads/freeglut-MinGW-3.0.0-1.mp/freeglut/lib" />
 		</Linker>
-		<Unit filename="snow_world.cpp" />
+		<Unit filename="theme_park.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
